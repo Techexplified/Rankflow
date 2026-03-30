@@ -1,0 +1,16 @@
+{
+  "name": "strapi-plugin-seo-tools",
+  "version": "1.0.0",
+  "description": "A custom SEO and Social Media preview component for Strapi v5.",
+  "strapi": {
+    "name": "seo-tools",
+    "description": "Custom SEO Preview",
+    "kind": "plugin"
+  },
+  "dependencies": {
+    "@strapi/design-system": "^2.0.0",
+    "@strapi/icons": "^2.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
